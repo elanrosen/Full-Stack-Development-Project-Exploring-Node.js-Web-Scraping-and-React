@@ -14,7 +14,7 @@ import { Actions } from "./Actions";
 import { checkDomainAvailability } from "./domainUtils"; 
 import { DomainList } from "./DomainList";  
 
-interface ChallengeProps {
+interface MainProps {
   /**
    * The maximum number of domains the user is allowed to have
    * in their cart. Invalid domains count toward this limit as well.
@@ -24,7 +24,7 @@ interface ChallengeProps {
   numDomainsRequired: number;
 }
 
-export function Challenge(props: ChallengeProps) {
+export function Main(props: MainProps) {
   const { numDomainsRequired } = props;
   const [domains, setDomains] = useState<string[]>([]);
   const [availableDomains, setAvailableDomains] = useState<boolean[]>([]);
