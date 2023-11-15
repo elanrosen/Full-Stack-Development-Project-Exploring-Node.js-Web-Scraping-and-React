@@ -12,7 +12,7 @@ The goal of this project was to develop an interactive and responsive web applic
 
 ## Deployment
 
-This project is currently deployed and accessible via AWS. You can interact with the live application here: [Domain Shopping Cart](https://main.d2pn17kn52jzp2.amplifyapp.com/).
+This project is currently deployed and accessible via AWS. You can interact with the live application here: [Domain Shopping Cart](https://main.d3dvm7vdkjxj45.amplifyapp.com/).
 
 ![UI Screenshot](imgs/UI.png)
 

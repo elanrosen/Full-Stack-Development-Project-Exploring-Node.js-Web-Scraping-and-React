@@ -8,7 +8,7 @@ This repository contains three distinct projects, each focusing on a different a
 
 - **Data Processing and Pipelining**: In the `data-processing` folder, I dive into handling large files using the Node Streams API and transforming CSV data into SQL commands utilizing Knex.
 - **Web Scraping Exploration**: The `web-scraping` folder showcases my work with web scraping tools like Crawlee and Cheerio, exploring the intricacies of extracting data from web pages.
-- **Frontend Development with React**: In the `frontend-react` folder, I focus on building interfaces using React and experiment with UI frameworks like Chakra UI. You can interact with the live application here: [Domain Shopping Cart](https://main.d2pn17kn52jzp2.amplifyapp.com/).
+- **Frontend Development with React**: In the `frontend-react` folder, I focus on building interfaces using React and experiment with UI frameworks like Chakra UI. You can interact with the live application here: [Domain Shopping Cart](https://main.d3dvm7vdkjxj45.amplifyapp.com/).
 
 Each project is self-contained, sharing some common NPM modules. The `package.json` in the parent folder lists these shared dependencies.
 
