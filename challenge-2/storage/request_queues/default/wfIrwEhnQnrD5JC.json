@@ -1,0 +1,9 @@
+{
+	"id": "wfIrwEhnQnrD5JC",
+	"json": "{\"id\":\"wfIrwEhnQnrD5JC\",\"url\":\"https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team\",\"loadedUrl\":\"https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team\",\"uniqueKey\":\"https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/langdock\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.289Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team",
+	"url": "https://www.ycombinator.com/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "UGf3CKxcAzzOC69",
+	"json": "{\"id\":\"UGf3CKxcAzzOC69\",\"url\":\"https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution\",\"loadedUrl\":\"https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution\",\"uniqueKey\":\"https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/dill\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution",
+	"url": "https://www.ycombinator.com/launches/I86-dill-faster-payments-in-foodservice-distribution"
+}

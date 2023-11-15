@@ -1,0 +1,9 @@
+{
+	"id": "Oz6UzS65v8KWFTV",
+	"json": "{\"id\":\"Oz6UzS65v8KWFTV\",\"url\":\"https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted\",\"loadedUrl\":\"https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted\",\"uniqueKey\":\"https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/second\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.328Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted",
+	"url": "https://www.ycombinator.com/launches/I5V-second-the-second-developer-bot-you-ve-always-wanted"
+}

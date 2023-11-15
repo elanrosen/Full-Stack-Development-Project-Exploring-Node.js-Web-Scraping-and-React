@@ -1,0 +1,9 @@
+{
+	"id": "cR6YiNtB3aRLygL",
+	"json": "{\"id\":\"cR6YiNtB3aRLygL\",\"url\":\"https://www.ycombinator.com/launches/JMD-slingshot-games-with-npcs-more-fun-than-real-people\",\"loadedUrl\":\"https://www.ycombinator.com/launches/JMD-slingshot-games-with-npcs-more-fun-than-real-people\",\"uniqueKey\":\"https://www.ycombinator.com/launches/JMD-slingshot-games-with-npcs-more-fun-than-real-people\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/slingshot-2\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.183Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/JMD-slingshot-games-with-npcs-more-fun-than-real-people",
+	"url": "https://www.ycombinator.com/launches/JMD-slingshot-games-with-npcs-more-fun-than-real-people"
+}

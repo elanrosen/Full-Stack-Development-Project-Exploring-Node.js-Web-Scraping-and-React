@@ -1,0 +1,9 @@
+{
+	"id": "VPLJC2gWxrNU9uC",
+	"json": "{\"id\":\"VPLJC2gWxrNU9uC\",\"url\":\"https://www.ycombinator.com/launches/JAL-happyrobot-ai-copilot-for-geospatial-imagery-analysis\",\"loadedUrl\":\"https://www.ycombinator.com/launches/JAL-happyrobot-ai-copilot-for-geospatial-imagery-analysis\",\"uniqueKey\":\"https://www.ycombinator.com/launches/JAL-happyrobot-ai-copilot-for-geospatial-imagery-analysis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/happyrobot\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.457Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/JAL-happyrobot-ai-copilot-for-geospatial-imagery-analysis",
+	"url": "https://www.ycombinator.com/launches/JAL-happyrobot-ai-copilot-for-geospatial-imagery-analysis"
+}

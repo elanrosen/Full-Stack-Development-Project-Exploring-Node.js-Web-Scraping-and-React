@@ -1,0 +1,9 @@
+{
+	"id": "7uUOZcBAebIfaGL",
+	"json": "{\"id\":\"7uUOZcBAebIfaGL\",\"url\":\"https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder\",\"loadedUrl\":\"https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder\",\"uniqueKey\":\"https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/vectorshift\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.257Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder",
+	"url": "https://www.ycombinator.com/launches/JBf-vectorshift-no-code-llm-workflow-builder"
+}

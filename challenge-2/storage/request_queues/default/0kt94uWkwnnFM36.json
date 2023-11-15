@@ -1,0 +1,9 @@
+{
+	"id": "0kt94uWkwnnFM36",
+	"json": "{\"id\":\"0kt94uWkwnnFM36\",\"url\":\"https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring\",\"loadedUrl\":\"https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring\",\"uniqueKey\":\"https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/highlight-io\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.345Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring",
+	"url": "https://www.ycombinator.com/launches/HwV-highlight-io-open-source-session-replay-error-monitoring"
+}

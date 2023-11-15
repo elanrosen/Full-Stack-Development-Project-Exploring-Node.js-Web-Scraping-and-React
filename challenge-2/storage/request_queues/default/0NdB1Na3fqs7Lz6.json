@@ -1,0 +1,9 @@
+{
+	"id": "0NdB1Na3fqs7Lz6",
+	"json": "{\"id\":\"0NdB1Na3fqs7Lz6\",\"url\":\"https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms\",\"loadedUrl\":\"https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms\",\"uniqueKey\":\"https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/raz\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.453Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms",
+	"url": "https://www.ycombinator.com/launches/JFY-raz-next-generation-ai-forms"
+}

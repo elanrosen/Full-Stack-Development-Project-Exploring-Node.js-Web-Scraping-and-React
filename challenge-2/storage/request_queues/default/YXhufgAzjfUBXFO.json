@@ -1,0 +1,9 @@
+{
+	"id": "YXhufgAzjfUBXFO",
+	"json": "{\"id\":\"YXhufgAzjfUBXFO\",\"url\":\"https://www.ycombinator.com/companies/280-north\",\"loadedUrl\":\"https://www.ycombinator.com/companies/280-north\",\"uniqueKey\":\"https://www.ycombinator.com/companies/280-north\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:51.470Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/280-north",
+	"url": "https://www.ycombinator.com/companies/280-north"
+}

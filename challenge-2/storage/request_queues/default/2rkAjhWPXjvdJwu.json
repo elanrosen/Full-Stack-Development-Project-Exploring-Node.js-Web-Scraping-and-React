@@ -1,0 +1,9 @@
+{
+	"id": "2rkAjhWPXjvdJwu",
+	"json": "{\"id\":\"2rkAjhWPXjvdJwu\",\"url\":\"https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code\",\"loadedUrl\":\"https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code\",\"uniqueKey\":\"https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"parentURL\":\"https://www.ycombinator.com/companies/magicbell\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-09-29T19:02:52.488Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code",
+	"url": "https://www.ycombinator.com/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code"
+}
