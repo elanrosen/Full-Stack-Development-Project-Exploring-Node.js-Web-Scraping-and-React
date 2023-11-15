@@ -10,6 +10,10 @@ The goal of this project was to develop an interactive and responsive web applic
 2. **Responsive Design**: Ensure the application is functional and visually appealing across various devices and screen sizes.
 3. **Interactive UI Components**: Utilize Chakra UI to build a user interface that's not only functional but also aesthetically pleasing and intuitive to use.
 
+## Deployment
+
+This project is currently deployed and accessible via AWS. You can interact with the live application here: [Domain Shopping Cart](https://main.d2pn17kn52jzp2.amplifyapp.com/).
+
 ![UI Screenshot](imgs/UI.png)
 
 
