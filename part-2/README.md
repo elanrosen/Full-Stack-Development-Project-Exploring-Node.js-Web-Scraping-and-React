@@ -28,13 +28,11 @@ The primary objective of this project is to:
 4. **Handling Additional Details**: The script also captures launch post details and news stories related to the company. For launch posts, additional scraping requests are queued and processed to extract detailed information from individual launch pages.
 5. **Structuring Data**: All extracted data is structured into comprehensive TypeScript interfaces, ensuring a consistent and detailed data format.
 6. **Outputting JSON**: The final step involves compiling the structured data for each company into a JSON file (`out/scraped.json`). The output directory is managed using fs-extra to ensure proper file handling.
+![Design Diagram](imgs/design.svg)
 
 ## Data Schema
 
 The data schema for each scraped company is extensive, capturing a wide range of information.
-
-![Data Schema Diagram](imgs/data_schema.svg)
-
 
 - Basic company details like `name`, `yearFounded`, and `teamSize`.
 - `additionalInfo` containing the company's batch, slogan, operating status, tags, website URL, and description.
@@ -43,6 +41,8 @@ The data schema for each scraped company is extensive, capturing a wide range of
 - `launchPosts`, capturing title, description, link, and detailed post information such as upvote count, author, time posted, elevator line, and post body.
 - `newsPosts` related to the company, each with title, date, and link.
 - Company `socials` like LinkedIn, Twitter, Facebook, and Crunchbase links.
+
+![Data Schema Diagram](imgs/data_schema.svg)
 
 ## Enhanced Development Practices
 
