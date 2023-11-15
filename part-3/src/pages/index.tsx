@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Challenge 3</title>
+        <title>Domain Shopping Cart</title>
+        <link rel="icon" type="image/x-icon" href="public/favicon.ico"></link>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
